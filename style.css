@@ -17,9 +17,11 @@ footer {
 
 .header {
     display:flex;
-    justify-content: space-around;
+    justify-content: space-between;
+    align-items: center;
     background-color: #f4e285;
 }
+
 
 ul {
     list-style-type: none;
