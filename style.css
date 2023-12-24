@@ -20,13 +20,23 @@ footer {
     justify-content: space-between;
     align-items: center;
     background-color: #f4e285;
+    padding: 20px 40px;
 }
 
+.logo {
+    font-size: 25px;
+}
+
+.right {
+    font-size: 18px;
+}
 
 ul {
     list-style-type: none;
     padding: 0;
     margin: 0;
+    display: flex;
+    gap: 20px;
 }
 
 a {
