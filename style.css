@@ -67,3 +67,8 @@ h1 {
     background-color: #fde482;
     margin: 80px;
 }
+
+.quote {
+    font-size: 35px;
+    font-weight: 200;
+}
