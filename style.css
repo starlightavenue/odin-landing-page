@@ -50,7 +50,19 @@ a {
     background-color: #fffaeb;
     /* background-color: #fde482; */
     justify-content: space-around;
-    padding: 20px;   
+    padding: 50px;
+    gap: 10px;
+}
+
+.intro {
+    width: 50%;
+}
+
+.imone {
+    align-self: center;
+}
+img {
+    border-radius: 20px;
 }
 
 h1 {
