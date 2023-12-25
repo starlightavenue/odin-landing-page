@@ -69,6 +69,32 @@ h1 {
     padding: 40px 60px;
     display: flex;
     justify-content: center;
+    align-items: center;
+    gap: 50px;
+    border-radius: 25px;
+}
+
+button {
+    border-radius: 25px;
+    padding: 20px;
+    border-style: none;
+    font-size: 18px;
+    font-family: inherit;
+    color:#fffaeb;
+}
+
+.botbut {
+    color:#fffaeb;
+    background-color: #343633;
+    border-style: solid;
+    border-width: thick;
+    border-color:#fffaeb;
+
+}
+
+.topbut {
+    background-color: #343633;
+    color:#fffaeb;
 }
 
 .quote {
