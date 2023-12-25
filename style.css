@@ -57,3 +57,13 @@ h1 {
     font-size: 50px;
     font-weight: 900;
 }
+
+.three {
+    display: flex;
+    background-color: #fffaeb;
+}
+
+.four {
+    background-color: #fde482;
+    margin: 80px;
+}
