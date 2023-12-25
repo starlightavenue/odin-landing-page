@@ -47,6 +47,9 @@ a {
 
 .one {
     display: flex;
-    /* background-color: #fffaeb; */
-    background-color: #fde482;
+    background-color: #fffaeb;
+    /* background-color: #fde482; */
+    justify-content: space-around;
+    padding: 20px;
+    
 }
