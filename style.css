@@ -44,3 +44,10 @@ a {
     text-decoration: none;
     color: #343633;
 }
+
+.one {
+    display: flex;
+    /* background-color: #fffaeb; */
+    background-color: #fde482;
+
+}
