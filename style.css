@@ -23,7 +23,7 @@ footer {
     padding: 20px 40px;
 }
 
-.logo {
+.logo, .news {
     font-size: 25px;
     font-weight: 700;
 }
