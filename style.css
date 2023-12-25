@@ -66,6 +66,9 @@ h1 {
 .four {
     background-color: #fde482;
     margin: 80px;
+    padding: 40px 60px;
+    display: flex;
+    justify-content: center;
 }
 
 .quote {
