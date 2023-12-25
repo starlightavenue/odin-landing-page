@@ -8,7 +8,7 @@ body {
 
 footer {
     display:flex;
-    background-color: #f4e285;
+    background-color: #fde482;
     justify-content: center;
     align-items: center;
     padding: 20px;
@@ -19,7 +19,7 @@ footer {
     display:flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #f4e285;
+    background-color: #fde482;
     padding: 20px 40px;
 }
 
