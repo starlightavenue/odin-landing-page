@@ -113,7 +113,7 @@ h2 {
 }
 
 
-.crois, .pastr, .lemo, .choco {
+.pastr {
     display:flex;
     flex-direction: column;
     align-items: center;
