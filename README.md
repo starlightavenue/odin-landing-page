@@ -1,6 +1,8 @@
 # Odin Landing Page
 
 This project is a landing page for Starlight Bakery. Starlight Bakery is a cozy spot for dreamers to rest, recharge, and have a tasty treat. Many a manifestation has been cultivated within these walls, and many more are sure to follow. Whether it's through a cup of tea or a slice of cake, I hope the stars align for every soul that crosses the threshold. 👩🏾‍🍳💫
+
+
 ![Screenshot of header and introduction section of landing page.](https://github.com/starlightavenue/odin-landing-page/blob/main/images/final-wide.png)
 
 ## Copyright
