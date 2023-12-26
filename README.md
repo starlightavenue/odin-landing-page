@@ -5,8 +5,9 @@ This project is a landing page for Starlight Bakery. Starlight Bakery is a cozy 
 
 ![Screenshot of header and introduction section of landing page.](https://github.com/starlightavenue/odin-landing-page/blob/main/images/final-wide.png)
 
-## Copyright
-The layout for the landing page was designed by [The Odin Project](https://www.theodinproject.com/home).
+## Initial Design
+The initial layout for the landing page was designed by [The Odin Project](https://www.theodinproject.com/home).
+![Screenshot of initial landing page design.](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png)
 
 ## Images
-All images included in landing page were taken by [Valeria Boltneva](https://www.pexels.com/@valeriya/). 
+All images included in landing page belong to [Valeria Boltneva](https://www.pexels.com/@valeriya/). 
