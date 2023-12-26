@@ -106,12 +106,8 @@ h2 {
 }
 
 .three {
-    display: flex;
     background-color: #fffaeb;
-    padding: 100px 350px;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    padding: 100px 200px;
 }
 
 .four {
@@ -151,9 +147,9 @@ button {
 .quote {
     font-size: 35px;
     font-weight: 200;
+    text-align: center;
 }
 
 .quotee {
-    display: flex;
-    align-self: flex-end;
+    text-align: right;
 }
