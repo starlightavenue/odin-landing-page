@@ -27,15 +27,19 @@ button {
 
 /* HEADER */
 .headlock {
-    /* display: flex; */
     background-color: #fde482;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .header {
-    display:flex;
+    display: flex;
     justify-content: space-between;
-    align-items: center;
-    padding: 20px 40px;
+    padding: 20px 50px;
+    width: 100%;
+    max-width: 1200px;
+    
 }
 
 .logo, .news {
@@ -56,19 +60,26 @@ ul {
 }
 
 /*SEC ONE*/
+.onelock {
+    display: flex;
+    justify-content: center;
+    background-color: #fffaeb;
+
+}
 .one {
     display: flex;
-    background-color: #fffaeb;
     /* background-color: #fde482; */
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     padding: 50px;
     gap: 20px;
     flex-wrap:wrap-reverse;
+    max-width: 1000px;
 }
 
 .intro {
-    flex-basis: 500px;
+
+    flex: 1 0 400px;
 }
 
 .imone > img {
