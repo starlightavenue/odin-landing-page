@@ -6,15 +6,26 @@ body {
     color: #343633;
 }
 
-footer {
-    display:flex;
-    background-color: #fde482;
-    justify-content: center;
-    align-items: center;
-    padding: 20px;
-    font-size: 18px;
+a {
+    text-decoration: none;
+    color: #343633;
 }
 
+img {
+    border-radius: 20px;
+}
+
+button {
+    border-radius: 25px;
+    padding: 20px;
+    border-style: none;
+    font-size: 18px;
+    font-family: inherit;
+    color:#fffaeb;
+    background-color: #343633;
+}
+
+/* HEADER */
 .header {
     display:flex;
     justify-content: space-between;
@@ -40,11 +51,7 @@ ul {
     gap: 20px;
 }
 
-a {
-    text-decoration: none;
-    color: #343633;
-}
-
+/*SEC ONE*/
 .one {
     display: flex;
     background-color: #fffaeb;
@@ -64,23 +71,12 @@ a {
     display:block;
 }
 
-img {
-    border-radius: 20px;
-}
-
-.imtwo {
-    border-style: solid;
-    border-color:#343633;
-    border-width: thick;
-    width: 200px;
-    height: auto;
-}
-
 h1 {
     font-size: 50px;
     font-weight: 900;
 }
 
+/* SEC TWO */
 .two {
     display: flex;
     flex-direction: column;
@@ -101,6 +97,7 @@ h2 {
     gap: 50px;
 }
 
+
 .crois, .pastr, .lemo, .choco {
     display:flex;
     flex-direction: column;
@@ -110,10 +107,38 @@ h2 {
     text-align: center;
 }
 
+.imtwo {
+    border-style: solid;
+    border-color:#343633;
+    border-width: thick;
+    width: 200px;
+    height: auto;
+}
+
+/* SEC THREE */
 .three {
     background-color: #fffaeb;
     padding: 100px 200px;
+    display: flex;
+    justify-content: center;
 }
+
+
+.full-quote {
+    max-width: 700px;
+}
+
+.quote {
+    font-size: 35px;
+    font-weight: 200;
+    text-align: center;
+}
+
+.quotee {
+    text-align: right;
+}
+
+/* SEC FOUR */
 
 .call {
     background-color: #fde482;
@@ -132,28 +157,19 @@ h2 {
     justify-content: center;
 }
 
-button {
-    border-radius: 25px;
-    padding: 20px;
-    border-style: none;
-    font-size: 18px;
-    font-family: inherit;
-    color:#fffaeb;
-    background-color: #343633;
-}
-
 .botbut {
     border-style: solid;
     border-width: thick;
     border-color:#fffaeb;
 }
 
-.quote {
-    font-size: 35px;
-    font-weight: 200;
-    text-align: center;
-}
+/* FOOTER */
 
-.quotee {
-    text-align: right;
+footer {
+    display:flex;
+    background-color: #fde482;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    font-size: 18px;
 }
