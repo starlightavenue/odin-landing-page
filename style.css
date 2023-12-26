@@ -122,7 +122,7 @@ h2 {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 20px;
+    gap: 50px;
     border-radius: 25px;
 }
 
@@ -133,20 +133,13 @@ button {
     font-size: 18px;
     font-family: inherit;
     color:#fffaeb;
+    background-color: #343633;
 }
 
 .botbut {
-    color:#fffaeb;
-    background-color: #343633;
     border-style: solid;
     border-width: thick;
     border-color:#fffaeb;
-
-}
-
-.topbut {
-    background-color: #343633;
-    color:#fffaeb;
 }
 
 .quote {
