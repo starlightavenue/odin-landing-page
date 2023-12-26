@@ -70,6 +70,8 @@ img {
     border-style: solid;
     border-color:#343633;
     border-width: thick;
+    width: 200px;
+    height: auto;
 }
 
 h1 {
