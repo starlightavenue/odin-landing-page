@@ -72,6 +72,20 @@ h1 {
 
 .two {
     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.p-work {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
 }
 
 .three {
