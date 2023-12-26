@@ -61,8 +61,15 @@ a {
 .imone {
     align-self: center;
 }
+
 img {
     border-radius: 20px;
+}
+
+.imtwo {
+    border-style: solid;
+    border-color:#343633;
+    border-width: thick;
 }
 
 h1 {
@@ -85,7 +92,15 @@ h2 {
 .p-work {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
     gap: 50px;
+}
+
+.crois, .pastr, .lemo, .choco {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
 }
 
 .three {
