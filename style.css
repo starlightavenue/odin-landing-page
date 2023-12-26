@@ -26,11 +26,15 @@ button {
 }
 
 /* HEADER */
+.headlock {
+    /* display: flex; */
+    background-color: #fde482;
+}
+
 .header {
     display:flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #fde482;
     padding: 20px 40px;
 }
 
@@ -39,7 +43,7 @@ button {
     font-weight: 700;
 }
 
-.right, p {
+.links, p {
     font-size: 18px;
 }
 
