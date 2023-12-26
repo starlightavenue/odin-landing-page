@@ -49,17 +49,19 @@ a {
     display: flex;
     background-color: #fffaeb;
     /* background-color: #fde482; */
-    justify-content: space-around;
+    justify-content: center;
+    align-items: center;
     padding: 50px;
-    gap: 10px;
+    gap: 20px;
+    flex-wrap:wrap-reverse;
 }
 
 .intro {
-    width: 50%;
+    flex-basis: 500px;
 }
 
-.imone {
-    align-self: center;
+.imone > img {
+    display:block;
 }
 
 img {
