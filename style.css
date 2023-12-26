@@ -115,7 +115,7 @@ h2 {
     padding: 100px 200px;
 }
 
-.four {
+.call {
     background-color: #fde482;
     margin: 80px;
     padding: 40px 60px;
@@ -124,6 +124,12 @@ h2 {
     align-items: center;
     gap: 50px;
     border-radius: 25px;
+    max-width: 1500px;
+}
+
+.four {
+    display: flex;
+    justify-content: center;
 }
 
 button {
